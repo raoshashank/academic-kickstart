@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Researching Action Model Learning of Black Box Agents
-  GPA: 4.0/4.0
+  (GPA: 4.0/4.0)
   """
 
 [[experience]]
@@ -65,6 +65,6 @@ date_format = "Jan 2006"
   location = "Mangalore"
   date_start = "2015-08-15"
   date_end = "2019-05-25"
-  description = """B.Tech in Mechanical Engineering """
-  """GPA: 3.77/4.0""" 
+  description = """B.Tech in Mechanical Engineering
+  (GPA: 3.77/4.0)""" 
 +++
