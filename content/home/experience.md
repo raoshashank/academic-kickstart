@@ -22,10 +22,11 @@ date_format = "Jan 2006"
   company = "Arizona State University"
   company_url = ""
   location = "Tempe"
-  date_start = "2019-01-13"
+  date_start = "2020-01-13"
   date_end = ""
   description = """
   Researching Action Model Learning of Black Box Agents
+  GPA: 4.0/4.0
   """
 
 [[experience]]
@@ -36,4 +37,14 @@ date_format = "Jan 2006"
   date_start = "2020-06-15"
   date_end = "2020-07-27"
   description = """Software Development for Autonomous Forklift Simulation"""
+
+[[experience]]
+  title = "Student"
+  company = "National Institute of Technology"
+  company_url = ""
+  location = "Mangalore"
+  date_start = "2015-08-15"
+  date_end = "2019-05-25"
+  description = """B.Tech in Mechanical Engineering
+  GPA: 3.77/4.0""" 
 +++
