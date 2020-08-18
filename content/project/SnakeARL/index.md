@@ -1,22 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ABU-ROBOCON 2018"
-summary: "Designed, developed, prototyped, fabricated and assembled (as a team) two industry-level robots that were to play a
-cooperative game of shuttlecock throwing."
-tags: [Robotics, Matlab, Hardware]
+title: "Robot Snakes mimic Snakes from Video using Genetic Algorithms"
+summary: "Utilized Genetic Algorithms to make a snake robot move like a snake from video from nature"
+tags: []
 categories: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://govindjeevan.github.io/"
+external_link: "https://github.com/raoshashank/ARL_Project"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Methodology"
   focal_point: ""
-  preview_only: True
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
