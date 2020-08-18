@@ -49,7 +49,7 @@ social:
   icon_pack: fab
   link: https://github.com/raoshashank
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/shashank-rao-marpally-55779a111/
 
 # Link to a PDF of your resume/CV from the About widget.
