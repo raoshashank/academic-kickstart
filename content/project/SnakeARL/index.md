@@ -5,6 +5,7 @@ title: "Robot Snakes mimic Snakes from Video using Genetic Algorithms"
 summary: "Utilized Genetic Algorithms to make a snake robot move like a snake from video from nature"
 tags: []
 categories: []
+date = "2017-04-27"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/raoshashank/ARL_Project"

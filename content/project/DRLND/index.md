@@ -1,9 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ABU-ROBOCON 2018"
-summary: "Designed, developed, prototyped, fabricated and assembled (as a team) two industry-level robots that were to play a
-cooperative game of shuttlecock throwing."
+title: "Deep Reinforcement Learning Nanodegree"
+summary: "Completed all projects within the Deep Reinforcement Learning Nanodegree Offered by Udacity"
 tags: []
 categories: []
 
@@ -38,3 +37,21 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+### Project 1: Navigation with DQN,Double DQN, Duelling DQN
+This project involves training an agent to navigate (and collect bananas!) in a large, square world.
+The result looked like this:
+![](result.gif)
+link to code: https://github.com/raoshashank/Navigation-using-DQN
+
+### Project 2: Continouous control with DDPG
+This project involves training a simulated robot arm to reach a particular given point.
+The result looked like this:
+![](output_gif.gif)
+link to code: https://github.com/raoshashank/Continouous-Control-with-DDPG
+
+### Project 3: Collaboration and Competition
+This project involves training a simulated robot arm to reach a particular given point.
+The resulting Reward Progression looked like:
+![](RewardProgression.png)
+link to code: https://github.com/raoshashank/Tennis-with-MADDPG
+
