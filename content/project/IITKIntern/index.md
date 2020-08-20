@@ -1,20 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ABU-ROBOCON 2018"
-summary: "Designed, developed, prototyped, fabricated and assembled (as a team) two industry-level robots that were to play a
-cooperative game of shuttlecock throwing."
+title: "RNN for Motion Planning"
+summary: "Investigated the applicability and utility of Recurrent Neural Networks for Motion Planning on a simulated UR5 robot arm in a ROS-Gazebo framework."
 tags: []
 categories: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://govindjeevan.github.io/"
+external_link: "https://github.com/raoshashank/RNN_for_Motion_Planning"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "First Team from NITK to qualify for ABU-Robocon (National Level)"
+  caption: ""
   focal_point: Center"
   preview_only: false
 

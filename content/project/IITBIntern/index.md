@@ -1,22 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ABU-ROBOCON 2018"
-summary: "Designed, developed, prototyped, fabricated and assembled (as a team) two industry-level robots that were to play a
-cooperative game of shuttlecock throwing."
+title: "Multi-Robot Decentralized Graph Exploration"
+summary: "Implemented an Exploration algorithm on ROS-Gazebo platform that utilizes multiple robots communicating in a decentralized fashion to achieve complete coverage of an apriori unknown map  "
 tags: []
 categories: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://govindjeevan.github.io/"
+external_link: "https://github.com/raoshashank/Multi-Robot-Decentralized-Graph-Exploration"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "First Team from NITK to qualify for ABU-Robocon (National Level)"
-  focal_point: Center"
-  preview_only: false
+  caption: ""
+  focal_point: ""
+  preview_only: false 
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -29,7 +28,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: " https://www.youtube.com/watch?v=pgRVIZpAfdI&t=4s"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
