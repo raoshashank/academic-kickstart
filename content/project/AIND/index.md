@@ -14,8 +14,8 @@ external_link: "https://govindjeevan.github.io/"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "First Team from NITK to qualify for ABU-Robocon (National Level)"
-  focal_point: Center"
+  caption: 
+  focal_point: 
   preview_only: false
 
 # Custom links (optional).
