@@ -68,5 +68,5 @@ user_groups:
 - Visitors
 ---
 
-I am a 2^{nd} year Masters Student and Research Assistant at Arizona State University, currently working with Dr. Siddharth Srivastava at the [Autonomous Agents and Intelligent Robots (AAIR) Lab](https://aair-lab.github.io/).
+I am a Second year Masters Student (Robotics and Autonomous Systems: AI Concentration) and Research Assistant at Arizona State University, currently working with Dr. Siddharth Srivastava at the [Autonomous Agents and Intelligent Robots (AAIR) Lab](https://aair-lab.github.io/).
 My research currently focusses on action model learning of black-box agents. I have previously worked on numerous Robotics projects as well.
