@@ -1,6 +1,6 @@
 ---
 title: "Asking the Right Questions: Learning Interpretable Action Models Through Query Answering"
-date: 2021-03-02
+date: 2021-02-10
 authors: ["Pulkit Verma", "Shashank Rao Marpally*", "Siddharth Srivastava"]
 publication_types: ["1"]
 publication: In Proceedings of the AAAI Conference on Artificial Intelligence, 2021
