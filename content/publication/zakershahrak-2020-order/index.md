@@ -1,6 +1,5 @@
 ---
 title: "Order Matters: Generating Progressive Explanations for Planning Tasks in Human-Robot Teaming"
-date: 2020-05-01
 authors: ["Zakershahrak, Mehrdad","Marpally, Shashank Rao*","Sharma, Akshay","Gong, Ze","Zhang, Yu"]
 publication_types: ["1"]
 publication: 2021 IEEE International Conference on Robotics and Automation (ICRA) (To appear)
