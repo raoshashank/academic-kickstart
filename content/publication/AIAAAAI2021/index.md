@@ -9,4 +9,5 @@ abstract: "This paper develops a new approach for estimating an interpretable, r
 planning agents that represent states as images."
 featured: false
 url_pdf: "https://aair-lab.github.io/Publications/vms_aaai21.pdf"
+url_publication: "https://ojs.aaai.org/index.php/AAAI/article/view/17428"
 ---
