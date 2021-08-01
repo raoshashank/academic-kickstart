@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: National University of Singapore
-    year: 2025
+    year: 2026
   - course: Masters in Robotics and Autonomous Systems(Artificial Intelligence Concentration)
     institution: Arizona State University
     year: 2021
