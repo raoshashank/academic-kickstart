@@ -71,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-I am a First year Ph.D. Student at Arizona State University, currently working with Dr. Harold Soh at the [Collaborative, Learning, and Adaptive Robotics (CLeAR)](https://clear-nus.github.io/).
-My research currently focusses on Safety and Trust in Human-Robot Collaboration. Previously, I worked on Learning action models of black-box agents through agent-interrogation.
+I am a First year Ph.D. Student at the National University of Singapore, currently working with Dr. Harold Soh at the [Collaborative, Learning, and Adaptive Robotics (CLeAR)](https://clear-nus.github.io/).
+My research focusses on Safety and Trust in Human-Robot Collaboration. Previously, I worked on Learning action models of black-box agents through agent-interrogation with Dr. Siddharth Srivastava. 
