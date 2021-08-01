@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Arizona State University
+- name: National University of Singapore
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Computer Science
+    institution: National University of Singapore
+    year: 2025
   - course: Masters in Robotics and Autonomous Systems(Artificial Intelligence Concentration)
     institution: Arizona State University
     year: 2021
@@ -41,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:smarpall@asu.edu  # For a direct email link, use "mailto:test@example.org".
+  link: smarpally@u.nus.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=NR9XcoQAAAAJ&hl=en
@@ -68,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-I am a Second year Masters Student (Robotics and Autonomous Systems: AI Concentration) and Research Assistant at Arizona State University, currently working with Dr. Siddharth Srivastava at the [Autonomous Agents and Intelligent Robots (AAIR) Lab](https://aair-lab.github.io/).
-My research currently focusses on action model learning of black-box agents. I have previously worked on numerous Robotics projects as well.
+I am a First year Ph.D. Student at Arizona State University, currently working with Dr. Harold Soh at the [Collaborative, Learning, and Adaptive Robotics (CLeAR)](https://clear-nus.github.io/).
+My research currently focusses on Safety and Trust in Human-Robot Collaboration. Previously, I worked on Learning action models of black-box agents through agent-interrogation.
