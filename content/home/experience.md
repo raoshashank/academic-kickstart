@@ -36,6 +36,16 @@ date_format = "Jan 2006"
 
   # Text color (true=light or false=dark).
   text_color_light = true  
+[[experience]]
+  title = "Ph.D. Student"
+  company = "National University of Singapore"
+  company_url = "https://clear-nus.github.io/"
+  location = "Singapore"
+  date_start = "2021-08-02"
+  date_end = ""
+  description = """
+  Working on Human-Robot Trust and Human-Centered Explainable AI 
+  """
 
 [[experience]]
   title = "Research Assistant"
@@ -43,7 +53,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Tempe,Arizona"
   date_start = "2020-01-13"
-  date_end = ""
+  date_end = "2021-05-30"
   description = """
   Researching Action Model Learning of Black Box Agents
   (GPA: 4.0/4.0)
