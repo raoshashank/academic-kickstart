@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   text_color_light = true  
 [[experience]]
   title = "Ph.D. Student"
-  company = "National University of Singapore"
+  company = "CLeAR Lab, National University of Singapore"
   company_url = "https://clear-nus.github.io/"
   location = "Singapore"
   date_start = "2021-08-02"
