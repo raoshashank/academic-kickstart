@@ -76,5 +76,5 @@ user_groups:
 
 Hi! I am a First year Ph.D. Student at the National University of Singapore, currently working with Dr. Harold Soh at the [Collaborative, Learning, and Adaptive Robotics (CLeAR)](https://clear-nus.github.io/).
 My research focusses on Safety and Trust in Human-Robot Collaboration. Previously, I worked on Learning action models of black-box agents through agent-interrogation with Dr. Siddharth Srivastava. 
-When I'm not working on research, you would generally find me either playing some [guitar](https://www.youtube.com/channel/UCGAl4cALoCjJDZFncgKvKnw), or [cooking](https://www.instagram.com/tempethindi/), or sketching, or watching british panel/comedy shows.
+When I'm not working on research, you would generally find me either playing some [guitar](https://www.youtube.com/channel/UCGAl4cALoCjJDZFncgKvKnw), or [cooking](https://www.instagram.com/smarpally/), or sketching, or watching british panel/comedy shows.
 
