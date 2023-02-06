@@ -75,6 +75,8 @@ user_groups:
 ---
 
 Hi! I am a Second year Ph.D. Student at the National University of Singapore, currently working with Dr. Harold Soh at the [Collaborative, Learning, and Adaptive Robotics (CLeAR)](https://clear-nus.github.io/).
-My research focusses on Robot Learning, Human-Robot Collaboration and Classical Planning. Previously, I worked on Learning action models of black-box agents through agent-interrogation with Dr. Siddharth Srivastava and before that, I worked on AI agents that generate explanations for planning tasks for humans with Dr. Yu (Tony) Zhang. 
+My research focusses on Robot Learning, Human-Robot Collaboration and Classical Planning. 
+Previously, I worked on Learning action models of black-box agents through agent-interrogation with Dr. Siddharth Srivastava and before that, I worked on AI agents that generate explanations for planning tasks for humans with Dr. Yu (Tony) Zhang. 
 When I'm not working on research, you would generally find me either playing some [guitar](https://www.youtube.com/channel/UCGAl4cALoCjJDZFncgKvKnw), or [cooking](https://www.instagram.com/smarpally/), or sketching, or watching british panel/comedy shows.
+UPDATE: I'm actively looking for internship opportunities for 2023 Summer!
 
