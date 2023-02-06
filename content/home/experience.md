@@ -43,8 +43,8 @@ date_format = "Jan 2006"
   location = "Singapore"
   date_start = "2021-08-02"
   date_end = ""
-  description = """
-  Working on Human-Robot Trust and Human-Centered Explainable AI 
+  description = """ 
+  I've cleared my Ph.D. Qualifying Examination! I currently work in the areas of robot learning, human-robot interaction and classical planning.
   """
 
 [[experience]]
