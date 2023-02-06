@@ -1,6 +1,6 @@
 ---
 title: "Learning User-Interpretable Descriptions of Black-Box AI System Capabilities"
-date: 2021-07-28
+date: 2021-07-01
 authors: ["Pulkit Verma", "Shashank Rao Marpally*", "Siddharth Srivastava"]
 publication_types: ["1"]
 publication: In Proceedings of ICAPS 2021 Workshop on Knowledge Engineering for Planning and Scheduling
