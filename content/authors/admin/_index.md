@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include Robot Learning, Human-Robot/AI Interaction and Collaboration, and,Classical Planning
 
 interests:
-- Artificial Intelligence
+- Robot Learning
 - Human Robot Interaction
-- AI-Safety
+- Classical Planning
 
 education:
   courses:
