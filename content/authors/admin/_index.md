@@ -80,6 +80,6 @@ Previously, I worked on Learning action models of black-box agents through agent
 When I'm not working on research, you would generally find me either playing some [guitar](https://www.youtube.com/channel/UCGAl4cALoCjJDZFncgKvKnw), or [cooking](https://www.instagram.com/smarpally/), or sketching, or watching british panel/comedy shows.
 I am also the Social Secretary for the [NUS Graduate Student Society](https://www.nusgss.com/), where we organize career development as well as social events for the Graduate students of NUS. 
 
-UPDATE: I'm actively looking for internship opportunities for 2023 Summer!
+UPDATE: I'm actively looking for research internship opportunities for 2023 Summer!
 
 
