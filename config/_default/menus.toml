@@ -27,5 +27,5 @@
 
 [[main]]
   name = "Knowledge Base"
-  url = "google.com"
+  url = "https://google.com"
   weight = 30
