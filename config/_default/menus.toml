@@ -25,7 +25,7 @@
     url = "files/cv.pdf"
     weight = 70
 
-#[[main]]
-#  name = "Knowledge Base"
-#  url = "#blog"
-#  weight = 30
+[[main]]
+  name = "Knowledge Base"
+  url = "google.com"
+  weight = 30
